@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "448c34a56d699c29117adc64c43affeb",
-    "url": "/react-weather-app/static/media/glyphicons-halflings-regular.448c34a5.woff2"
+    "revision": "f4769f9bdb7466be65088239c12046d1",
+    "url": "/react-weather-app/static/media/glyphicons-halflings-regular.f4769f9b.eot"
   },
   {
     "revision": "238a56d4f03b6a5c9ab5",
@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/react-weather-app/static/js/main.238a56d4.chunk.js"
   },
   {
-    "revision": "f4769f9bdb7466be65088239c12046d1",
-    "url": "/react-weather-app/static/media/glyphicons-halflings-regular.f4769f9b.eot"
-  },
-  {
     "revision": "fa2772327f55d8198301fdb8bcfc8158",
     "url": "/react-weather-app/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  {
+    "revision": "448c34a56d699c29117adc64c43affeb",
+    "url": "/react-weather-app/static/media/glyphicons-halflings-regular.448c34a5.woff2"
   },
   {
     "revision": "e18bbf611f2a2e43afc071aa2f4e1512",
